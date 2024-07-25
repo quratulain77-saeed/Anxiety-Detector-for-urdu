@@ -1,0 +1,16 @@
+# Audios
+/audio_files/*
+
+# Database
+/instance/*
+
+# Cache Files
+**/__pycache__/
+**/.DS_Store
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/*.so
+
+# Models
+/model/xlm-roberta-urdu/*
